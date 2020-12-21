@@ -1,2 +1,2 @@
-# JavaScript-Project
+# JavaScript Project
 My first project on JavaScript
