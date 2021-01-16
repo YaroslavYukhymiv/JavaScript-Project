@@ -8,7 +8,7 @@ const personalMovieDB = {
     privet: false
 };
 
-for(let i = 0; i < 2; i++){
+for(let i = 0; i <= 2; i++){
 
 const a = prompt("Один з останіх переглянутих фільмів?", ""),
       b = +prompt("На скільки оцінюєте його", "");
