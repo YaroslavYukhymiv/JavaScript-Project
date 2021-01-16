@@ -58,7 +58,7 @@ function showMyDB(){
     }
 }
 
-showMyDB();
+//showMyDB();
 
 function writeYourGenres(){
     for(let i = 1; i <= 3; i++){
