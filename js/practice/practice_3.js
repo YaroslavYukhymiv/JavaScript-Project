@@ -56,7 +56,6 @@ function showMyDB(){
     if(personalMovieDB.privet == false){
         console.log(personalMovieDB);
     }
-
 }
 
 showMyDB();
