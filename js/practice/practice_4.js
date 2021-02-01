@@ -27,6 +27,7 @@ const personalMovieDB = {
                   }
             }
     },
+
     
     detectPersonalLevel: function(){
 
