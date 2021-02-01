@@ -27,6 +27,7 @@ const personalMovieDB = {
                   }
             }
     },
+    
     detectPersonalLevel: function(){
 
         if(personalMovieDB.count < 10){
